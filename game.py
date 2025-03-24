@@ -246,3 +246,5 @@ if __name__ == "__main__":
     show_start_screen()  # Úvodní obrazovka
     while True:
         flappygame()  # Hlavní herní smyčka
+
+#1234568
